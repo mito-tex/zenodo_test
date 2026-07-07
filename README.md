@@ -1,9 +1,9 @@
 <!-- badges: start -->
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/deed.en) 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15224389.svg)](https://doi.org/10.5281/zenodo.15224389)
+[![DOI](https://sandbox.zenodo.org/badge/1292603809.svg)](https://handle.test.datacite.org/10.5072/zenodo.536893)
 <!-- badges: end --> 
 
-## A FAIR and project-oriented template for open science data workflows
+## Patches
 > Kauê de Sousa, Marie-Angélique Laporte
 
 Here we introduce a reusable, project-oriented data analysis template designed to align with the FAIR principles (Findable, Accessible, Interoperable, and Reusable). The template offers a structured and scalable approach for managing scientific data and code, particularly suited for collaborative and open science environments. It integrates good practices from R-based workflows, GitHub–Zenodo integration, and metadata standards including DataCite and CFF.
