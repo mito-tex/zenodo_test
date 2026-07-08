@@ -1,18 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this dataset or software, please cite it as below."
-title: "A FAIR and project-oriented template for open science data workflows"
+title: "Yeast etxtures"
 version: "v1.2"
-date-released: 2025-06-09
+date-released: 2026-08
 authors:
-  - family-names: de Sousa
-    given-names: Kauê
-    orcid: https://orcid.org/0000-0002-7571-7845
-    affiliation: "Bioversity International; University of Inland Norway"
-  - family-names: Laporte
-    given-names: Marie-Angélique
-    orcid: https://orcid.org/0000-0002-8461-9745
-    affiliation: "Bioversity International"
-repository-code: https://github.com/AgrDataSci/template-repo-data-analysis
+  - family-names: Hodorová
+    given-names: Viktória
+    orcid: https://orcid.org/0000-0003-4152-8744
+    affiliation: "Comenius University, Slovakia"
+  - family-names: Hladůvka
+    given-names: Jiří
+    orcid: https://orcid.org/0000-0002-5947-8813
+    affiliation: "Comenius University, Slovakia"
+repository-code: https://github.com/mito-tex/zenodo_test
 license: CC-BY-4.0
 keywords:
   - data-driven research
